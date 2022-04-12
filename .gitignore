@@ -1,0 +1,39 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!.idea/codeStyles/codeStyleConfig.xml
+!.idea/codeStyles/backendKotlinGuide.xml
+.vscode/
+bin/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+.DS_Store
+classes
+out/
+.scannerwork/
+target/
+
+/node_modules/
+package-lock.json
